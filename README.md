@@ -3,17 +3,21 @@ Passfuscator reads a text file, masks each line by replacing all characters exce
 
 #How to Use
 Clone this repository to your local machine or download the script directly:
+
 git clone https://github.com/Just-A-Regular-Guy/passfuscator
 
 Ensure you have Python installed on your machine. You can download it from python.org.
 
 Install the csv module if you haven't already. You can install it via pip:
+
 pip install csv
 
 Move to the script directory:
+
 cd passfuscator
 
 Run the script by executing the following command in your terminal:
+
 python passfuscator.py
 
 You will be prompted to enter the name of the input file. After the script finishes execution, it will generate an output file named output.csv in the same directory.
