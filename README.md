@@ -1,7 +1,7 @@
 # passfuscator
 Passfuscator reads a text file, masks each line by replacing all characters except the first two and the last two with "*", and writes the result to a CSV file. Lines with fewer than three characters are skipped.
 
-#How to Use
+# How to Use
 Clone this repository to your local machine or download the script directly:
 
 git clone https://github.com/Just-A-Regular-Guy/passfuscator
@@ -24,12 +24,12 @@ You will be prompted to enter the name of the input file. After the script finis
 
 Open the output.csv file to view the masked content.
 
-#Customization
+# Customization
 You can customize the input and output filenames by modifying the input_file and output_file variables at the end of the script.
 
-#Requirements
+# Requirements
 Python 3.x
 csv module
 
-#License
+# License
 This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details: https://github.com/Just-A-Regular-Guy/passfuscator/blob/main/LICENSE
