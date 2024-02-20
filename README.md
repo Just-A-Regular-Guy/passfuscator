@@ -32,4 +32,4 @@ You can customize the input and output filenames by modifying the input_file and
 `csv module`
 
 # License
-This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details: `https://github.com/Just-A-Regular-Guy/passfuscator/blob/main/LICENSE`
+This project is licensed under the GNU General Public License v3.0 - see the LICENSE file for details: https://github.com/Just-A-Regular-Guy/passfuscator/blob/main/LICENSE
